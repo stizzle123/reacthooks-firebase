@@ -20,7 +20,7 @@ function Login(props) {
             className="button pointer"
             onClick={() => setLogin(prev => !prev)}
           >
-            {login ? "need to create an account" : "already have an account?"}
+            {login ? "need to create an account?" : "already have an account?"}
           </button>
         </div>
       </form>
