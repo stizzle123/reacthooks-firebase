@@ -170,3 +170,11 @@ textarea {
   margin-bottom: 0.2em;
   max-width: 500px;
 }
+
+.flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
